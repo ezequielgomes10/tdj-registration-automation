@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">TDJ Registration Automation</title>
+  <desc id="desc">Banner em azul escuro com fluxo de planilha, modalidades e duplas</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1233"/><stop offset="1" stop-color="#17245e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/><rect width="1200" height="330" rx="26" fill="url(#grid)"/>
+  <rect x="48" y="47" width="54" height="54" rx="14" fill="#64e0ee"/><text x="75" y="81" text-anchor="middle" fill="#0b1233" font-family="Arial, sans-serif" font-size="18" font-weight="900">TDJ</text>
+  <text x="118" y="81" fill="#83edf5" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">DATA AUTOMATION</text>
+  <text x="48" y="164" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="800">Registration</text>
+  <text x="48" y="211" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="800">Automation<tspan fill="#64e0ee">.</tspan></text>
+  <text x="50" y="253" fill="#b6c8e3" font-family="Arial, sans-serif" font-size="18">Inscrições → Modalidades → Duplas</text>
+  <rect x="49" y="277" width="357" height="2" rx="1" fill="#64e0ee"/>
+  <rect x="693" y="52" width="460" height="232" rx="18" fill="#101942" stroke="#6477af"/>
+  <rect x="718" y="84" width="112" height="47" rx="10" fill="#253469" stroke="#64e0ee"/><text x="774" y="113" text-anchor="middle" fill="#f6fbff" font-family="Arial, sans-serif" font-size="15" font-weight="700">FORM</text>
+  <path d="M830 107H877M973 107H1010" stroke="#64e0ee" stroke-width="4" stroke-linecap="round"/><path d="M863 98l14 9-14 9M996 98l14 9-14 9" fill="none" stroke="#64e0ee" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="878" y="84" width="96" height="47" rx="10" fill="#253469" stroke="#64e0ee"/><text x="926" y="113" text-anchor="middle" fill="#f6fbff" font-family="Arial, sans-serif" font-size="15" font-weight="700">RAW</text>
+  <rect x="1010" y="84" width="118" height="47" rx="10" fill="#64e0ee"/><text x="1069" y="113" text-anchor="middle" fill="#101942" font-family="Arial, sans-serif" font-size="15" font-weight="900">11 TABS</text>
+  <path d="M1069 131V169M1069 169H809M1069 169H928" fill="none" stroke="#64e0ee" stroke-width="3"/>
+  <rect x="732" y="175" width="154" height="71" rx="10" fill="#253469" stroke="#6477af"/><text x="809" y="205" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">SYNC BY ID</text><text x="809" y="226" text-anchor="middle" fill="#b6c8e3" font-family="Arial, sans-serif" font-size="12">novos · edições</text>
+  <rect x="918" y="175" width="188" height="71" rx="10" fill="#253469" stroke="#6477af"/><text x="1012" y="205" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">PAIRED TEAMS</text><text x="1012" y="226" text-anchor="middle" fill="#b6c8e3" font-family="Arial, sans-serif" font-size="12">telefone · nome</text>
+</svg>
